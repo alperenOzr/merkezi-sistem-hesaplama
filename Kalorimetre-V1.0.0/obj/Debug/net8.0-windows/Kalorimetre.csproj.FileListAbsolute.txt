@@ -1,0 +1,196 @@
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\source\repos\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Masaüstü\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+F:\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+F:\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+F:\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+F:\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+F:\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+F:\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\Kalorimetre - Kopya\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Masaüstü\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\Merkezi Sistem Doğalgaz Fatura Hesaplama Uygulaması\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Merkezi-Sistem-Dogalgaz-Hesaplama-Uygulamasi-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\GitHub atılcak projeler\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.exe
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.deps.json
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.runtimeconfig.json
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\bin\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.ResolveComReference.cache
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.Form1.resources
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.AssemblyInfo.cs
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.dll
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\refint\Kalorimetre.dll
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.pdb
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\Kalorimetre.genruntimeconfig.cache
+C:\Users\alper\Desktop\gitprojelerim\Kalorimetre-v1.0.0\Kalorimetre\obj\Debug\net8.0-windows\ref\Kalorimetre.dll
